@@ -16,6 +16,7 @@ Add a new task by typing in the input field and pressing the "Add" button.
 Double click on the task to delete
 
 Screenshots
+
 ![Screenshot from 2024-07-21 16-27-13](https://github.com/user-attachments/assets/f5b87e4f-6ea1-42c4-828c-80d82f3f2b69)
 
 Contributing
