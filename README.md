@@ -1,13 +1,14 @@
 Chrome Extension Tasks
 
 Overview
-Chrome Extension Tasks is a simple and intuitive Chrome extension designed to help users manage their tasks directly within their browser. Whether you're managing daily to-dos, tracking work projects, or simply jotting down ideas, this extension aims to streamline your productivity.
+Chrome Extension Tasks is a lite weight Chrome extension designed to help users manage their tasks directly within their browser.
 
-git clone https://github.com/yourusername/chrome-extension-tasks.git
+Steps to use this extension
+1) git clone https://github.com/yourusername/chrome-extension-tasks.git
+2) Open Chrome and navigate to chrome://extensions/.
+3) Enable "Developer mode" by toggling the switch in the top right corner.
+4) Click on the "Load unpacked" button and select the folder where you cloned the repository.
 
-Open Chrome and navigate to chrome://extensions/.
-Enable "Developer mode" by toggling the switch in the top right corner.
-Click on the "Load unpacked" button and select the folder where you cloned the repository.
 The extension should now appear in your list of extensions and be ready to use.
 
 Usage
